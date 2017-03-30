@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlueprintAntiPasto.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"S:\Tiedostot\04_BattleTank\BattleTank\Plugins\BlueprintAntiPasto\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAntiPasto\Module.BlueprintAntiPasto.cpp.obj"
+"S:\Sovellukset\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAntiPasto\PCLaunch.rc.res"
+"S:\Sovellukset\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"S:\Tiedostot\04_BattleTank\BattleTank\Plugins\BlueprintAntiPasto\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BlueprintAntiPasto.lib"
